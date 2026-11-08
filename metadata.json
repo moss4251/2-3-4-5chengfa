@@ -1,0 +1,6 @@
+{
+  "name": "Multiplication Test",
+  "description": "Multiplication test 2-5 with lottery numbers 1-45 and 10s countdown timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
